@@ -1,1 +1,28 @@
-# week-4-game
+# Crystals collector game
+You will be given a random number at the start of the game .There are four crystals.By clicking on crystal tou will add a specific amount of points to your total score.
+You win the game by maching your total score to random number,you lose the game if your total goes above the random number.
+The value of each crystal is hidden from you until you click on it .
+Each time when the game starts,the game will change the value of each crytstal.
+# Getting started
+
+clone repo and
+- run command in terminal.
+-run index.html to get start playing game .
+
+# Technology used
+-javascript
+-jquery
+-bootstrap 4 -https://v4-alpha.getbootstrap.com/
+
+
+# Built with
+-visual code
+-terminal
+
+# Authors
+yewbdar girma
+
+# Acknowledgment
+All stack overflow contributer
+UT,bootcamp instractours
+

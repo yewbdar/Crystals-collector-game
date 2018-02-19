@@ -1,0 +1,52 @@
+img {
+    width:200px;
+    height: 200px;
+}
+div{
+    /*  */
+    background-color: white;
+
+}
+.div{
+    display:inline;
+    text-align: center;
+    padding-left: 48%;
+    
+}
+.row{
+    
+    background-color: black;
+}
+.imgdiv{
+margin-top:4%;
+border: 1px solid black;
+}
+img{
+    margin-left: 5%;
+}
+body{
+    font-size: 26px;
+    background-color: black;
+}
+.h1{
+
+   font-family: 'Tangerine', serif;
+        font-size: 120px;
+        font-weight: bold;
+       
+}
+.tittle{
+    margin-left: 28%;
+    text-align: center;
+    padding: 1%;
+}
+label{
+    text-align: center;
+    font-size: 46px;
+    font-family: 'Tangerine', serif;
+    background-color: black;
+    color: white;
+}
+/* .content{
+    /* margin-left: 4%; 
+} */
